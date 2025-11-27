@@ -3,17 +3,13 @@
 I'm a backend-focused software engineer passionate about building fast, scalable and reliable systems.
 I specialize in Go, cloud-native architecture, and modern backend ecosystems.  
 Experienced in designing distributed systems, working with concurrency, and building production-ready applications using Docker, Kubernetes, and major cloud providers (AWS EKS, GCP).
-##### 🟦 Core Languages
+##### 🟦 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-##### 🧩 Frameworks & Tools
 ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Gorilla](https://img.shields.io/badge/-Gorilla-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Hertz](https://img.shields.io/badge/-Hertz-00ADD8?style=flat-square&logo=go&logoColor=white)
-![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=flat-square&logo=go&logoColor=white)
-![PPROF](https://img.shields.io/badge/-pprof-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -23,10 +19,4 @@ Experienced in designing distributed systems, working with concurrency, and buil
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ---
-##### ⚡ What I Focus On
-- High-performance backend development in Go (REST, gRPC, graphQL, SOAP) with both value & pointer semantics
-- Concurrency, goroutines, sync primitives
-- Event-driven architecture with Kafka, RabbitMQ
-- Cloud-native environments (AWS, GCP, EKS)  
-- Infrastructure with Docker & Kubernetes  
-- CI/CD and containerized workflows  
+
