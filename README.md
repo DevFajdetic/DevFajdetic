@@ -4,7 +4,7 @@ I'm a backend-focused software engineer passionate about building high-performan
 Experienced in designing distributed systems, microservices, gRPC & REST API, working with concurrency, and building production-ready applications using Docker and Kubernetes
 ##### 🟦 Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Angular]https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
